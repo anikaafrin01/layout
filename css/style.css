@@ -1,0 +1,49 @@
+.header{
+	min-height: 50px;
+	background-color: plum;
+}
+.wrapper{
+	overflow:hidden;
+}
+
+.blog{
+	float:left;
+	width: 70%;
+	min-height: 200px;
+	background-color: mediumpurple;
+}
+.contact{
+	float:right;
+	width: 30%;
+	min-height: 200px;
+	background-color: darkorchid;
+}
+.footer{
+	min-height: 50px;
+	background-color: lightpink;
+}
+
+.header2{
+	min-height: 50px;
+	background-color: lavender;
+}
+
+.single{
+	width: 33.33%;
+	min-height: 200px;
+	float:left;
+}
+.thistle{
+	background-color:thistle;
+}
+.mistyrose{
+	background-color: mistyrose;
+}
+.lightblue{
+	background-color: lightblue;
+}
+.footer2{
+	min-height: 50px;
+	background-color: coral;
+}
+
